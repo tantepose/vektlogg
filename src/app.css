@@ -1,0 +1,12 @@
+/* Global styles for the app */
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	background: #f5f1e8; /* Paper-like yellow/cream background */
+	color: #1a237e; /* Dark blue text */
+	min-height: 100vh;
+}
+
